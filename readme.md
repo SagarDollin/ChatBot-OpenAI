@@ -93,7 +93,7 @@ To access the `/chat/query_document` endpoint and query a document, you can use 
 
 The above POST request queries the document located at `https://github.com/SagarDollin/QuantumComputerSimulator` with the question "Who is the author of this repository?" The server will process the request and return the response with the relevant information.
 
-![This is a snip of reference output](image.png)
+![This is a snip of reference output](images/image.png)
 
 Feel free to modify the query and URL in the request to test different document queries using the provided API.
 
